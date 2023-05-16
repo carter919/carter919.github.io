@@ -1,0 +1,58 @@
+  body {
+
+    margin: auto;
+    background-image: url('media/cat.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+  }
+
+  #title {
+    padding-top: 1rem;
+  }
+
+
+  p, li, #grid {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: black;
+    margin: auto;
+  }
+
+
+  #motorcycles{
+    margin-left: 80px;
+    margin-top: 30px
+  }
+
+  #motorcycleguy{
+    margin-top: 20px;
+    margin-left: 80px;
+  }
+
+  #computers{
+    margin-top: 5px;
+    margin-right: 15px;
+  }
+
+  #brands{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #grid, #game, #computer, #motorcycle {
+
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    background-color: #8C533E;
+    border: 1px solid #26150F;
+
+  }
+  #img-fluid {
+    padding-top: 1rem;
+  }
+
+
